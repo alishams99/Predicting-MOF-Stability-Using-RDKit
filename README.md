@@ -10,9 +10,8 @@ This project aims to predict the stability of Metal-Organic Frameworks (MOFs) us
 - Feature importance analysis
 
 ## Usage
-Clone the repository and run the `MOF_Stability_Prediction.ipynb` notebook. You can input a SMILES string representing a MOF's organic linker and get a predicted stability score.
+Clone the repository and run the `RDKit_Shams.ipynb` notebook. You can input a SMILES string representing a MOF's organic linker and get a predicted stability score.
 
 ## Installation
 ```bash
 conda install -c conda-forge rdkit
-pip install -r requirements.txt
